@@ -1,0 +1,3 @@
+[submodule "cookbooks/learn_chef_apache2"]
+	path = cookbooks/learn_chef_apache2
+	url = git@github.com:capnregex/learn_chef_apache2.git
